@@ -1,17 +1,24 @@
 {
   "files": {
-    "main.css": "/cvsergio/build/static/css/main.201bdf65.css",
-    "main.js": "/cvsergio/build/static/js/main.37d31ae8.js",
+    "main.css": "/cvsergio/build/static/css/main.e62f4943.css",
+    "main.js": "/cvsergio/build/static/js/main.d6f0e711.js",
     "static/js/787.48b8e79d.chunk.js": "/cvsergio/build/static/js/787.48b8e79d.chunk.js",
+    "static/media/lunchbunch.png": "/cvsergio/build/static/media/lunchbunch.a8f4ac0c9483c28cc3ca.png",
+    "static/media/oomph.png": "/cvsergio/build/static/media/oomph.e17c8841eb13660ed222.png",
     "static/media/IMG_4295.jpg": "/cvsergio/build/static/media/IMG_4295.ecef2a9639b243156443.jpg",
-    "static/media/rowletCensura.png": "/cvsergio/build/static/media/rowletCensura.49ed62b08ee05c376c4e.png",
+    "static/media/regional.png": "/cvsergio/build/static/media/regional.c85fdca8186a5c37a514.png",
+    "static/media/motyl.png": "/cvsergio/build/static/media/motyl.9c5d5b72b8d67eed4df1.png",
+    "static/media/bbrokers.png": "/cvsergio/build/static/media/bbrokers.23bfcbe868d7b81e5fc8.png",
+    "static/media/zellify.png": "/cvsergio/build/static/media/zellify.5331b0a49b7c0ed65dc4.png",
+    "static/media/avit.png": "/cvsergio/build/static/media/avit.c0c21e5923b46b2ac1ef.png",
+    "static/media/dynamo.png": "/cvsergio/build/static/media/dynamo.8c754c8970302d988886.png",
     "index.html": "/cvsergio/build/index.html",
-    "main.201bdf65.css.map": "/cvsergio/build/static/css/main.201bdf65.css.map",
-    "main.37d31ae8.js.map": "/cvsergio/build/static/js/main.37d31ae8.js.map",
+    "main.e62f4943.css.map": "/cvsergio/build/static/css/main.e62f4943.css.map",
+    "main.d6f0e711.js.map": "/cvsergio/build/static/js/main.d6f0e711.js.map",
     "787.48b8e79d.chunk.js.map": "/cvsergio/build/static/js/787.48b8e79d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.201bdf65.css",
-    "static/js/main.37d31ae8.js"
+    "static/css/main.e62f4943.css",
+    "static/js/main.d6f0e711.js"
   ]
 }

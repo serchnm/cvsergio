@@ -1,7 +1,7 @@
 import React from "react";
 import Typical from "react-typical";
 import { Icon } from "@iconify/react";
-import ColorSwitch from "../colorSwitch/colorSwitch";
+// import ColorSwitch from "../colorSwitch/colorSwitch";
 import "./hero.scss";
 
 const hero = ({ sharedData }) => {
@@ -11,7 +11,7 @@ const hero = ({ sharedData }) => {
   }
 
   return (
-    <div>
+    <div id="hero-section">
       <section className="hero is-success is-fullheight">
         <div className="hero-body">
           <div className="container has-text-centered">
@@ -29,9 +29,9 @@ const hero = ({ sharedData }) => {
               <Typical steps={titles} loop={50} />
             </div>
             <br />
-            <div className="color-switch">
+            {/* <div className="color-switch">
               <ColorSwitch />
-            </div>
+            </div> */}
           </div>
         </div>
       </section>

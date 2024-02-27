@@ -1,17 +1,21 @@
-import Nav from "./components/nav/nav";
 import Hero from "./components/hero/hero";
 import About from "./components/about/about";
+import Skills from "./components/skills/skills";
+import Projects from "./components/projects/projects";
+import Footer from "./components/footer/footer";
 import React from "react";
-import { sharedData } from "./mock/shared-data";
+import { sharedData, about, skills, footer } from "./mock/shared-data";
 import "bulma/css/bulma.css";
 import "./App.css";
 
 function App() {
   return (
     <div className="App">
-      {/* <Nav /> */}
       <Hero sharedData={sharedData} />
-      <About sharedData={sharedData} />
+      <About sharedData={about} />
+      <Skills sharedData={skills} />
+      <Projects />
+      <Footer sharedData={footer} />
     </div>
   );
 }

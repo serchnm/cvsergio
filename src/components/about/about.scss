@@ -1,48 +1,51 @@
-.hero-head {
-  padding-top: 5rem;
-}
-.hero-body {
-  padding: 5rem 4.5rem !important;
-}
-.polaroid {
-  text-align: center;
-  img {
-    display: block;
-    max-width: 200px;
-    max-height: 250px;
-    margin: 0 auto;
+#about-section {
+  .hero-head {
+    padding-top: 5rem;
   }
-  span {
-    background: #ffffff;
-    display: inline-block;
-    padding: 15px 15px 30px;
+  .hero-body {
+    padding: 5rem 4.5rem !important;
+  }
+  .polaroid {
     text-align: center;
-    text-decoration: none;
-    -webkit-box-shadow: 0 4px 6px rgba(0, 0, 0, .3);
-    -moz-box-shadow: 0 4px 6px rgba(0, 0, 0, .3);
-    box-shadow: 0 4px 6px rgba(0, 0, 0, .3);
-    -webkit-transition: all .20s linear;
-    -moz-transition: all .20s linear;
-    transition: all .20s linear;
-    z-index: 0;
-    position: relative;
-  }
-}
-.card-container {
-  min-width: 0;
-  word-wrap: break-word;
-  background-color: #fff;
-  background-clip: border-box;
-  border: 1px solid rgba(0, 0, 0, .125);
-  border-radius: 0.25rem;
-  
-  .card-header {
-    font-size: 0.7rem;
-    padding: 10px;
-    background-color: rgba(0, 0, 0, .03);
-    border-bottom: 1px solid rgba(0, 0, 0, .125);
-    .icon-tab {
-      margin-right: 5px;
+    img {
+      display: block;
+      max-width: 200px;
+      max-height: 250px;
+      margin: 0 auto;
+    }
+    span {
+      background: #ffffff;
+      display: inline-block;
+      padding: 15px 15px 30px;
+      text-align: center;
+      text-decoration: none;
+      -webkit-box-shadow: 0 4px 6px rgba(0, 0, 0, .3);
+      -moz-box-shadow: 0 4px 6px rgba(0, 0, 0, .3);
+      box-shadow: 0 4px 6px rgba(0, 0, 0, .3);
+      -webkit-transition: all .20s linear;
+      -moz-transition: all .20s linear;
+      transition: all .20s linear;
+      z-index: 0;
+      position: relative;
     }
   }
+  .card-container {
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0, 0, 0, .125);
+    border-radius: 0.25rem;
+    
+    .card-header {
+      font-size: 0.7rem;
+      padding: 10px;
+      background-color: rgba(0, 0, 0, .03);
+      border-bottom: 1px solid rgba(0, 0, 0, .125);
+      .icon-tab {
+        margin-right: 5px;
+      }
+    }
+  }
+  
 }

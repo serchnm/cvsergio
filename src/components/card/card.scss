@@ -1,0 +1,10 @@
+.card-section {
+  max-width: 450px !important;
+  img {
+    object-fit: contain;
+  }
+  .card-content {
+    padding-top: 15px;
+    text-align: center;
+  }
+}

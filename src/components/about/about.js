@@ -5,7 +5,7 @@ import "./about.scss";
 
 const about = ({ sharedData }) => {
   return (
-    <div>
+    <div id="about-section">
       <section class="hero is-medium">
         <div class="hero-head has-text-centered">
           <p class="title">About Me</p>
@@ -60,8 +60,11 @@ const about = ({ sharedData }) => {
                 <br />
                 <span className="wave">Hi :) </span>
                 <br />
+                {sharedData.description}
                 <br />
-                lll
+                <span>
+                  {sharedData.city} <Icon icon="emojione-v1:flag-for-mexico" />
+                </span>
               </div>
             </div>
           </div>

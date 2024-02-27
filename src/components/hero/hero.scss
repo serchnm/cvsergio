@@ -1,11 +1,13 @@
-.header-icon {
-	height: 150px;
-	width: 150px;
-}
-.color-switch {
-  display: flex;
-  justify-content: center;
-}
-.hero-container-body {
-  margin-bottom: 60px;
+#hero-section {
+  .header-icon {
+    height: 150px;
+    width: 150px;
+  }
+  .color-switch {
+    display: flex;
+    justify-content: center;
+  }
+  .hero-container-body {
+    margin-bottom: 60px;
+  }
 }
