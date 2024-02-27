@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/cvsergio/build/static/css/main.b03c9605.css",
+    "main.css": "/cvsergio/build/static/css/main.201bdf65.css",
     "main.js": "/cvsergio/build/static/js/main.37d31ae8.js",
     "static/js/787.48b8e79d.chunk.js": "/cvsergio/build/static/js/787.48b8e79d.chunk.js",
     "static/media/IMG_4295.jpg": "/cvsergio/build/static/media/IMG_4295.ecef2a9639b243156443.jpg",
     "static/media/rowletCensura.png": "/cvsergio/build/static/media/rowletCensura.49ed62b08ee05c376c4e.png",
     "index.html": "/cvsergio/build/index.html",
-    "main.b03c9605.css.map": "/cvsergio/build/static/css/main.b03c9605.css.map",
+    "main.201bdf65.css.map": "/cvsergio/build/static/css/main.201bdf65.css.map",
     "main.37d31ae8.js.map": "/cvsergio/build/static/js/main.37d31ae8.js.map",
     "787.48b8e79d.chunk.js.map": "/cvsergio/build/static/js/787.48b8e79d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b03c9605.css",
+    "static/css/main.201bdf65.css",
     "static/js/main.37d31ae8.js"
   ]
 }
