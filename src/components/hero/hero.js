@@ -1,15 +1,13 @@
-import React, { useMemo } from "react";
+import React from "react";
 import Typical from "react-typical";
 import { Icon } from "@iconify/react";
+import ColorSwitch from "../colorSwitch/colorSwitch";
 import "./hero.scss";
 
 const hero = ({ sharedData }) => {
-  console.log(sharedData);
   let titles = [];
   if (sharedData) {
-    console.log(titles);
     titles = sharedData.titles.map((x) => [x.toUpperCase(), 2000]).flat();
-    console.log(titles);
   }
 
   return (
@@ -27,8 +25,12 @@ const hero = ({ sharedData }) => {
             <h1 className="title">
               <Typical steps={[sharedData.name, 1500]} wrapper="p" />
             </h1>
-            <div>
+            <div className="hero-container-body">
               <Typical steps={titles} loop={50} />
+            </div>
+            <br />
+            <div className="color-switch">
+              <ColorSwitch />
             </div>
           </div>
         </div>

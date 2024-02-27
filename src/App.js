@@ -11,7 +11,7 @@ function App() {
     <div className="App">
       {/* <Nav /> */}
       <Hero sharedData={sharedData} />
-      <About />
+      <About sharedData={sharedData} />
     </div>
   );
 }

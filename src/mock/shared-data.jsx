@@ -16,5 +16,10 @@ export const sharedData = {
       "url": "https://www.instagram.com",
       "class": "fab fa-instagram"
     }
-  ]
+  ],
+  image: "serchProfile122.png"
+}
+
+export const about = {
+  title: 'ABOUT ME'
 }
