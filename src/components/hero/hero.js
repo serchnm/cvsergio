@@ -1,22 +1,36 @@
-import React from "react";
+import React, { useMemo } from "react";
+import Typical from "react-typical";
+import { Icon } from "@iconify/react";
 import "./hero.scss";
 
 const hero = ({ sharedData }) => {
   console.log(sharedData);
+  let titles = [];
+  if (sharedData) {
+    console.log(titles);
+    titles = sharedData.titles.map((x) => [x.toUpperCase(), 2000]).flat();
+    console.log(titles);
+  }
+
   return (
     <div>
-      <section>
-        <div>
-          <h1>
-            <span
+      <section className="hero is-success is-fullheight">
+        <div className="hero-body">
+          <div className="container has-text-centered">
+            <p className="title"></p>
+            <Icon
               className="iconify header-icon"
-              data-icon="la:laptop-code"
-              data-inline="false"
-            ></span>
+              icon="la:laptop-code"
+              inline={false}
+            />
             <br />
-            <span>{sharedData.name}</span>
-            <span>iPhone 15 pro</span>
-          </h1>
+            <h1 className="title">
+              <Typical steps={[sharedData.name, 1500]} wrapper="p" />
+            </h1>
+            <div>
+              <Typical steps={titles} loop={50} />
+            </div>
+          </div>
         </div>
       </section>
     </div>

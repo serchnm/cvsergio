@@ -1,11 +1,11 @@
-{
-  "name": "Sergio Bernardo Ortiz Navarro",
-  "titles": [
+export const sharedData = {
+  name: "Sergio Bernardo Ortiz Navarro",
+  titles: [
     "Front-end Developer",
     "Back-end Developer",
     "Full-stack Developer"
   ],
-  "social": [
+  social: [
     {
       "name": "github",
       "url": "https://github.com",

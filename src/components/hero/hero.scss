@@ -1,11 +1,11 @@
 /* basic */
-section {
-	position: relative;
-	min-height: 100vh;
-	display: grid;
-	place-items: center;
-}
-
-section:nth-of-type(1) {
-	height: 100vh;
+// section {
+// 	position: relative;
+// 	min-height: 90vh;
+// 	display: grid;
+// 	place-items: center;
+// }
+.header-icon {
+	height: 150px;
+	width: 150px;
 }
