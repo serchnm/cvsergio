@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/cvsergio/build/static/css/main.f855e6bc.css",
-    "main.js": "/cvsergio/build/static/js/main.ed9c1aa1.js",
+    "main.css": "/cvsergio/build/static/css/main.ce319f42.css",
+    "main.js": "/cvsergio/build/static/js/main.c8b9620e.js",
     "static/js/787.48b8e79d.chunk.js": "/cvsergio/build/static/js/787.48b8e79d.chunk.js",
-    "static/media/logo.svg": "/cvsergio/build/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/rowletCensura.png": "/cvsergio/build/static/media/rowletCensura.49ed62b08ee05c376c4e.png",
     "index.html": "/cvsergio/build/index.html",
-    "main.f855e6bc.css.map": "/cvsergio/build/static/css/main.f855e6bc.css.map",
-    "main.ed9c1aa1.js.map": "/cvsergio/build/static/js/main.ed9c1aa1.js.map",
+    "main.ce319f42.css.map": "/cvsergio/build/static/css/main.ce319f42.css.map",
+    "main.c8b9620e.js.map": "/cvsergio/build/static/js/main.c8b9620e.js.map",
     "787.48b8e79d.chunk.js.map": "/cvsergio/build/static/js/787.48b8e79d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.ed9c1aa1.js"
+    "static/css/main.ce319f42.css",
+    "static/js/main.c8b9620e.js"
   ]
 }
