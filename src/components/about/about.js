@@ -6,12 +6,12 @@ import "./about.scss";
 const about = ({ sharedData }) => {
   return (
     <div id="about-section">
-      <section class="hero is-medium">
-        <div class="hero-head has-text-centered">
-          <p class="title">About Me</p>
+      <section className="hero is-medium">
+        <div className="hero-head has-text-centered">
+          <p className="title">About Me</p>
         </div>
-        <div class="columns hero-body">
-          <div class="column is-two-fifths polaroid">
+        <div className="columns hero-body">
+          <div className="column is-two-fifths polaroid">
             <span style={{ cursor: "auto" }}>
               <img height={250} src={profyleImg} alt="Avatar placeholder" />
               <Icon
@@ -28,7 +28,7 @@ const about = ({ sharedData }) => {
               />
             </span>
           </div>
-          <div class="column">
+          <div className="column">
             <div className="card-container">
               <div className="card-header">
                 <Icon

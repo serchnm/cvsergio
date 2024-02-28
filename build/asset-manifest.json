@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/cvsergio/build/static/css/main.e62f4943.css",
-    "main.js": "/cvsergio/build/static/js/main.d6f0e711.js",
+    "main.css": "/cvsergio/build/static/css/main.ee0d956c.css",
+    "main.js": "/cvsergio/build/static/js/main.cbacca73.js",
     "static/js/787.48b8e79d.chunk.js": "/cvsergio/build/static/js/787.48b8e79d.chunk.js",
     "static/media/lunchbunch.png": "/cvsergio/build/static/media/lunchbunch.a8f4ac0c9483c28cc3ca.png",
     "static/media/oomph.png": "/cvsergio/build/static/media/oomph.e17c8841eb13660ed222.png",
@@ -13,12 +13,12 @@
     "static/media/avit.png": "/cvsergio/build/static/media/avit.c0c21e5923b46b2ac1ef.png",
     "static/media/dynamo.png": "/cvsergio/build/static/media/dynamo.8c754c8970302d988886.png",
     "index.html": "/cvsergio/build/index.html",
-    "main.e62f4943.css.map": "/cvsergio/build/static/css/main.e62f4943.css.map",
-    "main.d6f0e711.js.map": "/cvsergio/build/static/js/main.d6f0e711.js.map",
+    "main.ee0d956c.css.map": "/cvsergio/build/static/css/main.ee0d956c.css.map",
+    "main.cbacca73.js.map": "/cvsergio/build/static/js/main.cbacca73.js.map",
     "787.48b8e79d.chunk.js.map": "/cvsergio/build/static/js/787.48b8e79d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e62f4943.css",
-    "static/js/main.d6f0e711.js"
+    "static/css/main.ee0d956c.css",
+    "static/js/main.cbacca73.js"
   ]
 }

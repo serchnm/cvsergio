@@ -175,3 +175,66 @@ export const footer = {
     }
   ]
 }
+
+export const experience = {
+  info: [
+    {
+      company: "Arkus Nexus",
+      title: "Full-Stack Developer Mid",
+      years: "Feb 2021 - Jan 2024",
+      technologies: [
+          "Html",
+          "REST API",
+          "ReactJS",
+          "JavaScript",
+          "MaterialMUI",
+          "Bulma",
+          "MongoDb",
+          "SqlServer",
+          "Liquid",
+          "Sass",
+          "Css",
+          "Unity",
+          "VueJs",
+          "NextJs",
+          "Blender",
+          "NodeJs",
+          "Express"
+        ]
+    },
+    {
+      company: "Arkus Nexus",
+      title: "Full-Stack Developer Jr",
+      years: "Nov 2019 - Jan 2021",
+      technologies: [
+          "Html",
+          "REST API",
+          "ReactJS",
+          "JavaScript",
+          "MaterialMUI",
+          "Css",
+          "MongoDb",
+          "SqlServer",
+          "NodeJs",
+          "Express",
+          "C#"
+        ]
+    },
+    {
+      company: "Arkus Nexus",
+      title: "Full-Stack Developer Intern",
+      years: "July 2019 - Oct 2019",
+      technologies: [
+          "Html",
+          "REST API",
+          "JavaScript",
+          "VueJs",
+          "Bootstrap",
+          "Css",
+          "MongoDb",
+          "NodeJs",
+          "Express"
+        ]
+    },
+  ]
+}

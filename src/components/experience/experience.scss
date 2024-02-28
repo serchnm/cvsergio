@@ -1,0 +1,26 @@
+#experience-section {
+  .hero-head {
+    padding-top: 5rem;
+  }
+  .hero-body {
+    padding: 5rem 4.5rem !important;
+    h3, h4, p {
+      color: #4a4a4a;
+    }
+    h4 {
+      margin-bottom: 10px;
+    }
+    span {
+      color: #ffff;
+    }
+    .experience-card {
+      display: flex;
+    }
+
+  }
+ @media only screen and (max-width: 1170px) {
+  .vertical-timeline-element-date {
+    color: #4a4a4a !important;
+  }
+ }
+}
